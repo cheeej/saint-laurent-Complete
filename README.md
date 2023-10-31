@@ -53,11 +53,11 @@ PC :2023.10.09 ~ 2023.10.27
 
 - Mobile
 
-  - https://github.com/xxini98/saint-laurent-main
-  - https://github.com/xxini98/Saint_main
+  - https://github.com/cheeej/saint-laurent-main2
+  - https://github.com/cheeej/saint-laurent-main
     > FORK가 풀리는 이슈로 인하여 부득이하게 2개의 리포지토리 생성
 
 - PC
-  - https://github.com/xxini98/P_saint-laurent
+  - https://github.com/cheeej/P_saint-laurent
 
 ---
